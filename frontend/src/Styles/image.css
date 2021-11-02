@@ -1,0 +1,19 @@
+.slick-arrow.slick-prev,
+ .slick-arrow .slick-next{
+     background-color: cadetblue;
+ }
+
+
+.custom-indicator li{
+    width: 50px;
+    height: 50px;
+    border: darkblue 2px ;
+    margin: 5px;
+}
+.custom-indicators{
+    
+
+  width: 30px;
+    height: 30px;
+    margin-left: 34px;
+}

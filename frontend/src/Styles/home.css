@@ -1,0 +1,59 @@
+.crousel-wrapper{
+    padding:30px 30px;
+}
+
+.myntraimage{
+    height: 400px;
+    width: 100%;
+    border-radius: 30px;
+}
+.display{
+    display: inline-flexbox;
+}
+
+.rectangle-one{
+    width: 12rem;
+  
+  position: relative;
+  display: inline-block;
+  margin: 20px;
+  box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+
+  margin-block: 30px;
+  }
+  .images-1{
+    width: 193px;
+    height: 229px;
+  } 
+.item-1{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1;
+    color: #282c3f;
+    margin-bottom: 6px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.main {
+    width: 50%;
+    margin: 50px auto;
+}
+.categories-to-bag{
+    width: 239px;
+height: 43px;
+margin-top: 15px;
+margin-left: 130px;
+font-family: Poppins;
+font-size: 30px;
+font-weight: bold;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.53;
+letter-spacing: normal;
+text-align: left;
+color: #192f60;
+}
+
+
